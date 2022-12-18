@@ -1,0 +1,5 @@
+package com.educaweb.course.resources;
+
+public class UserResource {
+
+}

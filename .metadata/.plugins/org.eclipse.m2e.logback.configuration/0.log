@@ -11,3 +11,23 @@
 2022-12-18 10:08:43,805 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-12-18 10:08:43,806 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-12-18 10:08:43,809 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\1CrudSpring\course\course\src\test\resources
+2022-12-18 10:23:21,813 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-18 10:23:21,819 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-18 10:23:21,821 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\1CrudSpring\course\course\src\test\resources
+2022-12-18 10:29:18,016 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-18 10:29:18,057 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-18 10:29:18,061 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\1CrudSpring\course\course\src\test\resources
+2022-12-18 10:30:05,192 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-18 10:30:05,251 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-18 10:30:05,254 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\1CrudSpring\course\course\src\test\resources
+2022-12-18 10:44:51,604 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-18 10:44:51,609 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-18 10:44:51,611 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\1CrudSpring\course\course\src\test\resources
+2022-12-18 10:49:52,076 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-18 10:49:52,086 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-18 10:49:52,088 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\1CrudSpring\course\course\src\test\resources
+2022-12-18 10:50:31,033 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-18 10:50:31,047 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-18 10:50:31,050 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\1CrudSpring\course\course\src\test\resources
+2022-12-18 10:51:10,501 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-18 10:51:10,512 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
