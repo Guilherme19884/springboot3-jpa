@@ -1,0 +1,18 @@
+package com.educaweb.course.services;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.educaweb.course.entities.User;
+import com.educaweb.course.repositories.UserRepository;
+
+public class UserService {
+	
+	@Autowired
+	private UserRepository repository;
+	
+	public List<User>findAll(){
+		return repository.findAll();
+	}
+}
