@@ -1,0 +1,10 @@
+package com.educaweb.course.entities.enums;
+
+public class OrderStatus {
+	
+	private int WAITING_PAYMENT,
+	PAID,
+	SHIPPED,
+	DELIVERED,
+	CANCELED;
+}
