@@ -23,4 +23,5 @@
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="com.educaweb.course.entities.Product"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Transient"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.JoinColumn"/>
 </qualifiedTypeNameHistroy>
